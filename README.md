@@ -13,7 +13,7 @@ This repository has the following minimum requirements-
 Running the APP from this repository, needs the following -
 
 
-- HRETM Image. (For some reason, the dataset cannot be made public at this time)(If you don't have, you can send email to me)(my email:2657069105@qq.com)
+- HRETM Image. (For some reason, the dataset cannot be made public at this time)
 
 ## Overview
 There are some main functions
